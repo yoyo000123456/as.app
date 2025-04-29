@@ -1,19 +1,20 @@
-name: as
+name: aschat
 description: Chat app for friends
 publish_to: 'none'
 version: 1.0.0
-
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: '>=3.19.0'
 dependencies:
   flutter:
     sdk: flutter
   firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
   firebase_auth: ^4.16.0
-  cloud_firestore: ^4.14.0
   firebase_messaging: ^14.7.10
-  flutter_local_notifications: ^17.0.0
-
+  cupertino_icons: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
 flutter:
   uses-material-design: true
