@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735112694384",
+    "project_id": "as-message-1aa6a",
+    "storage_bucket": "as-message-1aa6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735112694384:android:190b0df3daaadf11bc02b5",
+        "android_client_info": {
+          "package_name": "com.ashish.as"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIL96Rnxe78ODdPiMzGCJX9ofaJvYdAD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
